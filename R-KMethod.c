@@ -23,5 +23,5 @@ void main(){
         printf("\n For x = %f", x+h);
         printf("\n k1 = %f\n k2 = %f\n k3 = %f\n k4 = %f\n y = %f\n", k1, k2, k3, k4, y);
     }
-    printf("f(%f) = %f", x, y);
+    printf("f(%f) = %f", q, y);
 }
